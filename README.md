@@ -9,6 +9,8 @@ Gemini 3.5 Flash 的核心定位，是将前沿级（Frontier）智能与 Flash 
 > **💡 推荐使用工具：**
 > - **Gemini 镜像站直达**：[https://lazymanchat.com](https://lazymanchat.com) (高速稳定)
 > - **Gemini 中文版入口**：[https://huoyachat.com](https://huoyachat.com)
+> - **Gemini 国内使用教程**：[Gemini 国内使用教程](https://gemini-cn.org)
+> - **Gemini 官网最新使用指南**：[Gemini 官网最新使用指南](https://geminiai-china.com)
 ---
 
 ## 目录
